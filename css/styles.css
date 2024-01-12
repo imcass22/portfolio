@@ -1,0 +1,44 @@
+.hero-img {
+  background: url(../images/hero-image.jpg);
+}
+
+.text-align-justify {
+  text-align: justify;
+}
+
+.img-fluid {
+  max-height: 450px;
+}
+
+.contact-btn {
+  background: #babbbb;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 00px;
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+#contact-me {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h2,
+p {
+  font-family: "Hind Vadodara", sans-serif;
+}
